@@ -5,7 +5,7 @@ Create table employees (
     first_name varchar(50),
     last_name varchar(50),
     hourly_pay decimal(5,2),
-    hire_data date
+    hire_date date
 );
 select * from employees;
 rename table employees to workers;
