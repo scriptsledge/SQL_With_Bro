@@ -2,6 +2,7 @@
 ==========================
 
 This repository contains SQL scripts I wrote while learning SQL with Bro Code. The 30 scripts cover various tutorials from the course.
+Here is the [link.](youtube.com/playlist?list=PLZPZq0r_RZOMskz6MdsMOgxzheIyjo-BZ&si=GxYys-MvD-qxtzLr)
 
 **Files**
 ---------
